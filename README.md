@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi 👋, I'm Kirill (THE OWL) Gazin
+> [!NOTE]
+> Someday there will be a description of my strange personality on here.
 <!--
 **redesaile/redesaile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
