@@ -1,4 +1,6 @@
 ## Hi 👋, I'm Kirill (THE OWL) Gazin
+Front-End Developer, Level Artist, Level Designer.
+
 > [!NOTE]
 > Someday there will be a description of my strange personality on here.
 <!--
