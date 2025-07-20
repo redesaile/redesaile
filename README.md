@@ -1,4 +1,4 @@
-## Hey! My name is Kirill (THE OWL) Gazin.
+## Hi, I'm Kirill (THE OWL) Gazin.
 I'm mainly into developing levels for games.
 
 Here's a list of things I usually have a hand in:
