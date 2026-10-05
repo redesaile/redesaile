@@ -1,5 +1,5 @@
 ## Hi! I'm Kirill (THE OWL) Gazin
-I'm mainly into developing levels for [Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2).
+I'm mainly into developing maps for [Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2).
 
 Here's a list of things I usually have a hand in:
 * Level Design;
